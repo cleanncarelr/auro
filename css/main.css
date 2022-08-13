@@ -114,11 +114,12 @@ ul li {
 }
 #header .logo {
 	font-size: 21px;
-	color: #000;
+	color: #de6e4b;
 	font-weight: 700;
 	float: left;
 	text-transform: uppercase;
 }
+
 #header.fixed {
 	background-color: #fff;
 }
@@ -340,6 +341,24 @@ ul li {
 	opacity: 1;
 	text-shadow: none;
 }
+/* custom */
+
+.glyphicon-chevron-left{
+color : #de6e4b;
+}
+
+.glyphicon-chevron-left:hover{
+	color : #fff;
+	}
+
+.glyphicon-chevron-right{
+	color : #de6e4b;
+	}
+
+.glyphicon-chevron-right:hover{
+	color : #fff;
+	}
+
 /* ------------------------------------------------------------------------------
 	 Services
 -------------------------------------------------------------------------------*/
